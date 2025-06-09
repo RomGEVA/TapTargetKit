@@ -38,7 +38,7 @@ struct SettingsView: View {
                             Text("Rate the App")
                         }
                     }
-                    Link("Privacy Policy", destination: URL(string: "https://example.com/privacy")!)
+                    Link("Privacy Policy", destination: URL(string: "https://www.termsfeed.com/live/ccbb0268-eb81-4028-b255-5b8be1cdc7f7")!)
                 }
             }
             .navigationTitle("Settings")
